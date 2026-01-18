@@ -1,8 +1,8 @@
 # 🛒 Retail Superstore Power BI Analysis
 
 ## 📌 Project Overview
-This project presents an end-to-end **Retail Superstore analysis** built using **Power BI**.  
-The dashboard transforms raw transactional data into actionable insights across **customer behavior, product performance, sales trends, and store efficiency**, enabling data driven business decision-making.
+This project presents an end to end **Retail Superstore analysis** built using **Power BI**.  
+The dashboard transforms raw transactional data into actionable insights across **customer behavior, product performance, sales trends, and store efficiency**, enabling data driven business decision making.
 
 ---
 
@@ -17,7 +17,7 @@ To analyze retail performance and answer key business questions such as:
 
 ## ❓ Business Problem
 Retail businesses often struggle to:
-- Identify high-value customers and retention opportunities
+- Identify high value customers and retention opportunities
 - Understand which products truly drive revenue
 - Monitor sales performance across time and regions
 - Evaluate store-level efficiency and scalability
@@ -65,7 +65,7 @@ The Power BI dashboard is divided into four analytical sections:
 
 ### 3️⃣ Sales & Revenue Performance
 - Monthly revenue trends
-- Category-wise revenue growth
+- Category wise revenue growth
 - Brand performance analysis
 - Regular vs discounted sales comparison
 
@@ -100,7 +100,7 @@ The Power BI dashboard is divided into four analytical sections:
 - Express store formats outperform Supermarkets in total revenue contribution, suggesting that smaller, high-efficiency store models are more effective for revenue generation.
 - Electronics and Home & Kitchen categories are the primary revenue drivers, while other categories present optimization opportunities through targeted promotions or assortment refinement.
 - Revenue growth is primarily driven by volume and brand strength rather than aggressive discounting, reflecting healthy sales quality and reduced dependency on margin eroding promotions.
-- Revenue contribution is uneven across cities and stores, with a small group of high performing locations generating a disproportionate share—highlighting clear candidates for replication and expansion.
+- Revenue contribution is uneven across cities and stores, with a small group of high performing locations generating a disproportionate share highlighting clear candidates for replication and expansion.
 - Sales trends exhibit predictable seasonal patterns, enabling better forecasting, staffing, and inventory planning.
 
 ---
