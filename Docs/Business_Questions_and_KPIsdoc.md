@@ -1,13 +1,13 @@
-# 📌 Business Questions & KPIs
+#  Business Questions & KPIs
 
-## 🎯 Business Objective
+##  Business Objective
 To analyze retail superstore performance across customers, products, sales, revenue, and stores in order to identify growth drivers, profitability patterns, and operational optimization opportunities that support data-driven decision-making.
 
 ---
 
-## 🧠 Business Questions
+##  Business Questions
 
-### 1️⃣ Customer Behavior Analysis
+###  Customer Behavior Analysis
 - Which **age group** contributes the highest revenue?
 - How does revenue vary by **product category across age groups**?
 - Do **loyalty members** generate more revenue than non-members?
@@ -16,7 +16,7 @@ To analyze retail superstore performance across customers, products, sales, reve
 
 ---
 
-### 2️⃣ Product & Category Performance
+###  Product & Category Performance
 - Which **product categories and sub-categories** generate the highest revenue?
 - Is revenue concentrated in **high-value or low-value products**?
 - How does product performance vary across **regions**?
@@ -25,7 +25,7 @@ To analyze retail superstore performance across customers, products, sales, reve
 
 ---
 
-### 3️⃣ Sales & Revenue Performance
+###  Sales & Revenue Performance
 - How does **revenue trend over time** (monthly and seasonally)?
 - Which **categories lead revenue growth year over year**?
 - Which **brands** contribute the most to total revenue?
@@ -34,7 +34,7 @@ To analyze retail superstore performance across customers, products, sales, reve
 
 ---
 
-### 4️⃣ Store & Regional Performance
+###  Store & Regional Performance
 - Which **store types** (Express vs Supermarket) generate more revenue?
 - Which **cities and individual stores** are top revenue contributors?
 - How does store performance vary by **product category**?
@@ -43,9 +43,9 @@ To analyze retail superstore performance across customers, products, sales, reve
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
-### 🔹 Revenue KPIs
+###  Revenue KPIs
 - Total Revenue  
 - Average Revenue per Store  
 - Monthly Revenue Trend  
@@ -57,7 +57,7 @@ To analyze retail superstore performance across customers, products, sales, reve
 
 ---
 
-### 🔹 Customer KPIs
+###  Customer KPIs
 - Revenue by Age Group  
 - Revenue by Loyalty Membership (Yes / No)  
 - New vs Returning Customer Revenue  
@@ -66,7 +66,7 @@ To analyze retail superstore performance across customers, products, sales, reve
 
 ---
 
-### 🔹 Product KPIs
+###  Product KPIs
 - High vs Low Revenue Product Share (%)  
 - Revenue by Product Category  
 - Revenue by Sub-Category  
@@ -75,7 +75,7 @@ To analyze retail superstore performance across customers, products, sales, reve
 
 ---
 
-### 🔹 Store Performance KPIs
+###  Store Performance KPIs
 - Revenue by Store Type  
 - Revenue by Store Name  
 - Top Performing Stores  
@@ -85,7 +85,7 @@ To analyze retail superstore performance across customers, products, sales, reve
 
 ---
 
-### 🔹 Sales Quality KPIs
+###  Sales Quality KPIs
 - Revenue from Regular-Priced Sales  
 - Revenue from Discounted Sales  
 - Discount Dependency Ratio  
@@ -93,7 +93,7 @@ To analyze retail superstore performance across customers, products, sales, reve
 
 ---
 
-## 💡 Business Value
+##  Business Value
 This KPI framework transforms raw transactional retail data into actionable insights, enabling leadership to:
 - Optimize customer retention and loyalty strategies  
 - Focus on high-impact products and categories  
