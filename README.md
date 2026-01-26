@@ -118,19 +118,19 @@ This dashboard enables stakeholders to:
 ## 📸 Dashboard Screenshots
 
 ### Customer Behavior
-![Customer Behavior](<img width="1384" height="782" alt="Customer Behaviors" src="https://github.com/user-attachments/assets/bc3fa2e3-ddef-4948-b629-db8343af356f" />
-)
+<img width="1384" height="782" alt="Customer Behaviors" src="https://github.com/user-attachments/assets/bc3fa2e3-ddef-4948-b629-db8343af356f" />
+
 
 ### Product Insights
-![Product Insights](<img width="1385" height="765" alt="Product insights" src="https://github.com/user-attachments/assets/36f2b12c-8eaa-490b-a83d-4d952801ce9d" />
-)
+<img width="1385" height="765" alt="Product insights" src="https://github.com/user-attachments/assets/36f2b12c-8eaa-490b-a83d-4d952801ce9d" />
+
 
 ### Sales & Revenue
-![Sales and Revenue](<img width="1384" height="781" alt="Sales and Revenue" src="https://github.com/user-attachments/assets/a06155a8-2c37-4af4-8703-dacdf26b945e" />
-)
+<img width="1384" height="781" alt="Sales and Revenue" src="https://github.com/user-attachments/assets/a06155a8-2c37-4af4-8703-dacdf26b945e" />
+
 
 ### Store Performance
-![Store Performance](<img width="1392" height="772" alt="Store Performances" src="https://github.com/user-attachments/assets/ca91efaf-6f3e-4a9d-8234-a8f6258f7abd" />
-)
+<img width="1392" height="772" alt="Store Performances" src="https://github.com/user-attachments/assets/ca91efaf-6f3e-4a9d-8234-a8f6258f7abd" />
+
 
 ---
